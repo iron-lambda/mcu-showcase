@@ -1,6 +1,6 @@
 # MCU Showcase
 
-[![Language](https://img.shields.io/badge/language-C-blue)]()
+![Language](https://img.shields.io/badge/language-C-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 [English](README.md) | [中文](README.zh-CN.md)
